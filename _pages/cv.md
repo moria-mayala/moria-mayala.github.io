@@ -13,7 +13,7 @@ Education
 ======
 * Ph.D in Statistics and Probability, Sorbonne Université, 2025 (expected)
 * M.S. in Statistics and Probability, IMSP, 2019
-* B.S. in General Mathematics, Marien Ngouabi
+* B.S. in Mathematics, Marien Ngouabi
 University, 2016
 * Insurance Technician Diploma, Institut International des Assurances (IIA), 2015
 
