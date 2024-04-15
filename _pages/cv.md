@@ -11,9 +11,11 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Statistics and Probability, Sorbonne Université, 2025 (expected)
+* M.S. in Statistics and Probability, IMSP, 2019
+* B.S. in General Mathematics, Marien Ngouabi
+University, 2016
+* Insurance Technician Diploma, Institut International des Assurances (IIA)
 
 Work experience
 ======
