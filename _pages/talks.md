@@ -14,10 +14,10 @@ author_profile: true
 
 **Posters sessions**
 
-- **Conference on Heavy Tails, long Range Dependence**, * July 2022, CIRM, Marseille*.
+- **Conference on Heavy Tails, long Range Dependence**,  *July 2022, CIRM, Marseille*.
 
 
 **Doctoral schools**
 
 - **Modeling and statistical analysis of extremes in time series**, *October 2023, University of Copenhagen*.
-- **Doctoral courses**, *March 2022, Institut Henri Poincaré (IHP)*.
+- **Doctoral courses**,  *March 2022, Institut Henri Poincaré (IHP)*.
