@@ -15,14 +15,14 @@ Education
 * M.S. in Statistics and Probability, IMSP, 2019
 * B.S. in General Mathematics, Marien Ngouabi
 University, 2016
-* Insurance Technician Diploma, Institut International des Assurances (IIA)
+* Insurance Technician Diploma, Institut International des Assurances (IIA), 2015
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+#* Spring 2024: Academic Pages Collaborator
+ #* Github University
+ #* Duties includes: Updates and improvements to template
+  #* Supervisor: The Users
 
 * Fall 2015: Research Assistant
   * Github University
