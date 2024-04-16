@@ -7,5 +7,5 @@ redirect_from:
   - /about.html
 ---
 
-I am a third year PhD student at [LPSM](https://www.lpsm.paris/) (Sorbonne Université) and [WPI](https://www.wpi.ac.at/). \
+I am a third year PhD student at [LPSM](https://www.lpsm.paris/) (Sorbonne Université) and [WPI](https://www.wpi.ac.at/) (Universität Wien). \
 I am supervised by [Olivier Wintenberger](http://wintenberger.fr/) (LPSM) and [Charles Tillier](http://tillier.perso.math.cnrs.fr/) (LMV).
