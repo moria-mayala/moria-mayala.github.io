@@ -11,13 +11,8 @@ author_profile: true
 - **VALPRED workshop on extreme events analysis**, *April 2023, Aussois*.
 - **Groupe de Travail des Thésards (GTT)**, *April 2023, LPSM-Jussieu*.
 
----
-layout: archive
-title: "Posters sessions"
-permalink: /Posters sessions/
-author_profile: true
----
 
+# Posters sessions
 
 - **Conference on Heavy Tails, long Range Dependence**,  *July 2022, CIRM, Marseille*.
 
