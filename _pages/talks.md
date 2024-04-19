@@ -12,12 +12,12 @@ author_profile: true
 - **Groupe de Travail des Thésards (GTT)**, *April 2023, LPSM-Jussieu*.
 
 
-## Posters sessions
+# Posters sessions
 
 - **Conference on Heavy Tails, long Range Dependence**,  *July 2022, CIRM, Marseille*.
 
 
-## Doctoral schools
+# Doctoral schools
 
 - **Modeling and statistical analysis of extremes in time series**, *October 2023, University of Copenhagen*.
 - **Doctoral courses**,  *March 2022, Institut Henri Poincaré (IHP)*.
