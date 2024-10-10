@@ -12,7 +12,7 @@ title                    : "Home"
 title_separator          : "-"
 name                     : &name "Moria Grâce MAYALA"
 description              : &description "personal description"
-url                      : https://MAYALA0033.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://moria-mayala.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
