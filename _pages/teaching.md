@@ -8,11 +8,11 @@ author_profile: true
 
 **2024-2025**
 
-- **Multivariate Data Analysis (MDA)**, *Under graduate course L3,  Sorbonne Université*.
-
 - **Introductory Course on R Software**, *Graduate course M2,  Sorbonne Université*.
 
 - **Mathematical Statistics**, *(Tutoring, 18 hours per year) Graduate course M1, Sorbonne Université*.
+
+- **Multivariate Data Analysis (MDA)**, *Under graduate course L3,  Sorbonne Université*.
 
 - **Stochastic Modeling**, *(Tutoring, 28 hours per year) L3-1st year engineering
 ISUP, Sorbonne Université*.
