@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Statistics and Probability, Sorbonne Université, 2025 (expected)
+* Ph.D in Statistics and Probability, Sorbonne Université, LPSM laboratory, Paris, 2025
 * M.S. in Statistics and Probability, IMSP, 2019
 * B.S. in Mathematics, Marien Ngouabi
 University, 2016
@@ -20,24 +20,14 @@ University, 2016
 Work experience
 ======
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Fall 2025: Temporary lecturer and research assistant (ATER), Mathematics department, Sorbonne
+Université.
+  
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Skill R, Python,  LaTex, Sphinx, Stata.
+* Skill French, English, Lingala.
 
 Publications
 ======
