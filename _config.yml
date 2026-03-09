@@ -8,10 +8,10 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Home"
+title                    : "Moria Grâce MAYALA"
 title_separator          : "-"
 name                     : &name "Moria Grâce MAYALA"
-description              : &description "personal description"
+description              : &description "PhD in Statistics. Researcher in statistics & machine learning."
 url                      : https://moria-mayala.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
