@@ -17,3 +17,5 @@ I am interested in hybrid modelling of time series and neural networks. More spe
   M. Mayala, O. Wintenberger, C. Tillier and C. Dombry
 - [Asymptotic Normality of Infinite Centered random Forests-Application to Imbalanced Classification. ](https://hal.science/hal-05090088),
   M. Mayala, E. Scornet, C. Tillier and O. Wintenberger
+- Mayala, M., (Ongoing). Imbalanced learning : Application to fraud detection.
+- Mayala, M., and Gnandi, E. (Ongoing). When Random Forests Meet Time Series: hybridization.
