@@ -11,7 +11,9 @@ I recently completed my PhD in statistics learning in  the Statistics departemen
 I was supervised by [Olivier Wintenberger](http://wintenberger.fr/) (LPSM) and [Charles Tillier](http://tillier.perso.math.cnrs.fr/) (LMV). 
 
 Contact:\ 
+
 90 Rue de Tolbiac, 75013 Paris.  \
+
 Email: Moria-Grace-Aurore.Mayala[at]univ-paris1.fr
 
 
