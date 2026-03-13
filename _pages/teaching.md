@@ -5,6 +5,11 @@ permalink: /teaching/
 author_profile: true
 ---
 
+**2025-2026**
+
+- **Integration-probability** *L3*, **inferential statistics** *L2*, **probabilities** *L1*, *Parcours MIASHS, Université Paris 1 Panthéon Sorbonne*.
+
+
 
 **2024-2025**
 
