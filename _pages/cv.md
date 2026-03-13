@@ -19,9 +19,9 @@ University, Brazzaville, 2016
 
 Work experience
 ======
+* Fall 2025-2026: I am  now a  temporary lecturer and research assistant (ATER), Mathematics department, Université Paris 1 Panthéon-Sorbonne.
 
-* Fall 2025: Temporary lecturer and research assistant (ATER), Mathematics department, Sorbonne
-Université.
+* Fall 2024-2025: Temporary lecturer and research assistant (ATER), Mathematics department, Sorbonne Université.
   
   
 Skills
@@ -29,7 +29,7 @@ Skills
 * Skill R, Python,  LaTex, Sphinx, Stata.
 * Skill French, English, Lingala.
 
-Publications
+<!--Publications
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
@@ -49,4 +49,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams-->
