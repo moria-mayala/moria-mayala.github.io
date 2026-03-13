@@ -21,7 +21,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "photo_usa_page-0001.jpg"
+  avatar           : "photo_moria.png"
   name             : " Moria Grâce MAYALA"
   pronouns         : # example: "she/her"  
   bio              : "PhD in Statistics & Machine Learning
