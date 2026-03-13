@@ -7,7 +7,7 @@ author_profile: true
 
 
 
-- **Séminaire SAMM**, March 2026, SAMM-Université Paris 1.
+- **Séminaire SAMM**, *March 2026, SAMM-Université Paris1*.
 - **Extreme Values Analysis (EVA)**, *June 2025, North Carolina*.
 - **56 èmes Journées des Statistiques de la SFDS**, *June 2025, Marseille*.
 - **VALPRED workshop on extreme events analysis**, *December 2024, Aussois*.
