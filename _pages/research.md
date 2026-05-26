@@ -14,7 +14,7 @@ I am interested in hybrid modelling of time series and neural networks. More spe
   
 ## Preprints
 
--M. Mayala, E. Scornet, C. Tillier and O. Wintenberger. (2025) [Asymptotic Normality of Infinite Centered random Forests-Application to Imbalanced Classification. ](https://hal.science/hal-05090088).
+-M. Mayala, E. Scornet, C. Tillier and O. Wintenberger. (2025). Asymptotic Normality of Infinite Centered random Forests-Application to Imbalanced Classification, submitted,[hal.science](https://hal.science/hal-05090088).
 
 - M. Mayala, C. Tillier and O. Wintenberger.(Ongoing). Bagged denoised 1NN, Threshold and calibration methods.
 - M. Mayala.(Ongoing). Imbalanced learning : Application to fraud detection.
@@ -22,5 +22,5 @@ I am interested in hybrid modelling of time series and neural networks. More spe
 
 
 ## Accepted/Published papers
-- M. Mayala, O. Wintenberger, C. Tillier and C. Dombry.(2026). Infinite  random forests for imbalanced classification tasks,  Electronic Journal of Statistics, Vol. 20 (2026) 2314–2365.[doi](https://doi.org/10.1214/26-EJS2536), [arXiv](https://arxiv.org/abs/2408.01777).
+- M. Mayala, O. Wintenberger, C. Tillier and C. Dombry. (2026). Infinite  random forests for imbalanced classification tasks,  Electronic Journal of Statistics, Vol. 20 (2026) 2314–2365.[doi](https://doi.org/10.1214/26-EJS2536), [arXiv](https://arxiv.org/abs/2408.01777).
   
