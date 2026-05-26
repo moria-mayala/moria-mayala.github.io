@@ -6,14 +6,14 @@ author_profile: true
 ---
 
 
-- **11es Rencontres des Jeunes Statisticien-nes (RJS)**, *May 2026, Porquerolles*.
+- **11 èmes Rencontres des Jeunes Statisticien-nes (RJS)**, *May 2026, Porquerolles*.
 - **Séminaire SAMM**, *March 2026, SAMM-Université Paris1*.
 - **Extreme Values Analysis (EVA)**, *June 2025, North Carolina*.
 - **56 èmes Journées des Statistiques de la SFDS**, *June 2025, Marseille*.
 - **VALPRED workshop on extreme events analysis**, *December 2024, Aussois*.
 - **55 èmes Journées des Statistiques de la SFDS**, *May 2024, Bordeaux*.
 - **Séminaire Doctoral**, *April 2024, LPSM- Jussieu*.
-- **10es Rencontres des Jeunes Statisticien-nes (RJS)**, *April 2024, Porquerolles*.
+- **10 èmes Rencontres des Jeunes Statisticien-nes (RJS)**, *April 2024, Porquerolles*.
 - **Extreme Values Analysis (EVA)**, *June 2023, Milano*.
 - **VALPRED workshop on extreme events analysis**, *April 2023, Aussois*.
 - **Groupe de Travail des Thésards (GTT)**, *April 2023, LPSM-Jussieu*.
