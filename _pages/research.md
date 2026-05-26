@@ -13,9 +13,13 @@ My research lies at the intersection of theoretical statistics, statistical lear
 I am interested in hybrid modelling of time series and neural networks. More specifically, I am interested in a hybrid modelling framework that integrates    the linear structure of time series with the non-linear learning capabilities of deep neural networks, including RNNs, LSTMs and others.
   
 ## Preprints
-- [Infinite  random forests for imbalanced classification tasks ](https://arxiv.org/abs/2408.01777),
-  M. Mayala, O. Wintenberger, C. Tillier and C. Dombry
+
 - [Asymptotic Normality of Infinite Centered random Forests-Application to Imbalanced Classification. ](https://hal.science/hal-05090088),
   M. Mayala, E. Scornet, C. Tillier and O. Wintenberger
 - Mayala, M., (Ongoing). Imbalanced learning : Application to fraud detection.
 - Mayala, M., and Gnandi, E. (Ongoing). When Random Forests Meet Time Series: hybridization.
+
+
+## Accepted/Published papers
+- [Infinite  random forests for imbalanced classification tasks ](https://arxiv.org/abs/2408.01777),Electronic Journal of Statistics, Vol. 20 (2026) 2314–2365
+  M. Mayala, O. Wintenberger, C. Tillier and C. Dombry
