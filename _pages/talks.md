@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 
-
+- **11es Rencontres des Jeunes Statisticien-nes (RJS)**, *May 2026, Porquerolles*.
 - **Séminaire SAMM**, *March 2026, SAMM-Université Paris1*.
 - **Extreme Values Analysis (EVA)**, *June 2025, North Carolina*.
 - **56 èmes Journées des Statistiques de la SFDS**, *June 2025, Marseille*.
